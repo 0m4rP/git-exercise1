@@ -3,5 +3,8 @@
     $secondNumber = 3;
 
     echo $firstNumber + $secondNumber;
+    echo $firstNumber - $secondNumber;
+    echo $firstNumber * $secondNumber;
+    echo $firstNumber / $secondNumber;
 
 ?>
