@@ -9,5 +9,6 @@
 
     echo "hola mundo";
     echo "este es otro echo";
+    ech $jfdas;
 
 ?>
