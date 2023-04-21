@@ -7,4 +7,7 @@
     echo $firstNumber * $secondNumber;
     echo $firstNumber / $secondNumber;
 
+    echo "hola mundo";
+    echo "este es otro echo";
+
 ?>
